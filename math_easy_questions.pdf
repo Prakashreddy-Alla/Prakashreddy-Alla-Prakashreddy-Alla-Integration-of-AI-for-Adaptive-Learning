@@ -1,0 +1,36 @@
+Question: What is the rank of the following 2x3 matrix?
+| 1  2  3 |
+| 4  5  6 |
+A) 2
+B) 3
+C) 1
+D) 0
+Correct Answer: A
+
+Question: Which of the following is an example of a scalar in linear algebra?
+A) A vector
+B) A matrix
+C) A real number
+D) A complex number
+Correct Answer: C
+
+Question: What is the trace of a 3x3 identity matrix?
+A) 3
+B) 0
+C) 1
+D) 2
+Correct Answer: A
+
+Question: In a matrix multiplication AB, if A is an m x n matrix and B is an n x p matrix, what is the size of the resulting matrix AB?
+A) m x p
+B) n x n
+C) p x m
+D) n x m
+Correct Answer: A
+
+Question: The determinant of a 2x2 matrix [a b; c d] is calculated as:
+A) ad - bc
+B) ac - bd
+C) ab - cd
+D) bc - ad
+Correct Answer: A

@@ -1,0 +1,37 @@
+Question: What is the determinant of a 3x3 matrix with the following entries?
+| 2  0  1 |
+| 3  1 -2 |
+| 4  3  5 |
+A) -26
+B) 26
+C) 34
+D) -34
+Correct Answer: A
+
+Question: Which of the following matrices is not invertible (i.e., has no inverse)?
+A) Identity matrix (3x3)
+B) A matrix with all elements equal to zero
+C) A matrix with all elements equal to one
+D) A matrix with zero determinant
+Correct Answer: D
+
+Question: The eigenvectors of a matrix are linearly independent when:
+A) They are orthogonal to each other
+B) They have different eigenvalues
+C) They are linearly dependent
+D) None of the above
+Correct Answer: B
+
+Question: Which of the following operations changes the rank of a matrix?
+A) Adding a multiple of one row to another row
+B) Multiplying all elements in a row by a non-zero constant
+C) Swapping two rows
+D) None of the above
+Correct Answer: D
+
+Question: The transpose of a row matrix results in a:
+A) Row matrix
+B) Column matrix
+C) Diagonal matrix
+D) Square matrix
+Correct Answer: B
