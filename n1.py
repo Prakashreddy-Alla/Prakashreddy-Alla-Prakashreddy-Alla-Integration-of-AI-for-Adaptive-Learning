@@ -18,7 +18,7 @@ def main():
     st.title("Multiple Choice Questions")
     st.write("Generating MCQ's")
     prompt_template=create_template()
-    llm=ChatOpenAI(openai_api_key="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")
+    llm=ChatOpenAI(openai_api_key="APIKEY")
     chain=create_chain(prompt_template,llm)
     context=st.text_area("enter the contents of the quiz")
     num_questions=st.number_input("Enter number of inputs")
