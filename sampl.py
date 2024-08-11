@@ -18,7 +18,7 @@ def create_chain(prompt_template, llm):
 def main():
     st.title("MCQ's")
     st.write("Generating MCQ,s")
-    openai_api_key="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"
+    openai_api_key="APIKEY"
     
     
     llm = ChatOpenAI(api_key=openai_api_key)
